@@ -1,5 +1,5 @@
 {
-    "name": "consoletvs/charts",
+    "name": "robosys-labs/charts",
     "description": "The laravel charting package",
     "license": "MIT",
     "type": "library",
